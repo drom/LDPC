@@ -20,7 +20,8 @@ Emran, Ahmed A., and Maha Elsabrouty. "Generalized simplified variable-scaled mi
 
 ## HW Implementation
 
-Mansour, Mohammad M., and Naresh R. Shanbhag. "Low-power VLSI decoder architectures for LDPC codes." Proceedings of the 2002 international symposium on Low power electronics and design. ACM, 2002. http://shanbhag.ece.illinois.edu/publications/mohammad-ISLPED2002.pdf
+Mansour, Mohammad M., and Naresh R. Shanbhag. "Low-power VLSI decoder architectures for LDPC codes." Proceedings of the 2002 international symposium on Low power electronics and design. ACM, 2002. [Mansour02](http://shanbhag.ece.illinois.edu/publications/mohammad-ISLPED2002.pdf)
 
-Mansour, Mohammad M., and Naresh R. Shanbhag. "High-throughput LDPC decoders." IEEE transactions on very large scale integration (VLSI) Systems 11.6 (2003): 976-996. https://pdfs.semanticscholar.org/c135/9442f16251edf4ab96dc3a581eca52ca8187.pdf
+Mansour, Mohammad M., and Naresh R. Shanbhag. "High-throughput LDPC decoders." IEEE transactions on very large scale integration (VLSI) Systems 11.6 (2003): 976-996. [Mansour03](https://pdfs.semanticscholar.org/c135/9442f16251edf4ab96dc3a581eca52ca8187.pdf)
 
+Mansour, Mohammad M., and Naresh R. Shanbhag. "A 640-Mb/s 2048-bit programmable LDPC decoder chip." IEEE Journal of Solid-State Circuits 41.3 (2006): 684-698. [Mansour06](http://shanbhag.ece.illinois.edu/publications/mohammad-jssc2006.pdf)
