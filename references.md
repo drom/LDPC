@@ -25,3 +25,5 @@ Mansour, Mohammad M., and Naresh R. Shanbhag. "Low-power VLSI decoder architectu
 Mansour, Mohammad M., and Naresh R. Shanbhag. "High-throughput LDPC decoders." IEEE transactions on very large scale integration (VLSI) Systems 11.6 (2003): 976-996. [Mansour03](https://pdfs.semanticscholar.org/c135/9442f16251edf4ab96dc3a581eca52ca8187.pdf)
 
 Mansour, Mohammad M., and Naresh R. Shanbhag. "A 640-Mb/s 2048-bit programmable LDPC decoder chip." IEEE Journal of Solid-State Circuits 41.3 (2006): 684-698. [Mansour06](http://shanbhag.ece.illinois.edu/publications/mohammad-jssc2006.pdf)
+
+Shih, Xin-Yu, et al. "An 8.29 mm $^{2} $52 mW Multi-Mode LDPC Decoder Design for Mobile WiMAX System in 0.13$\mu $ m CMOS Process." IEEE Journal of Solid-State Circuits 43.3 (2008): 672-683. [Shih08](http://access.ee.ntu.edu.tw/Publications/Journal/J24_2008.pdf)
