@@ -29,3 +29,5 @@ Mansour, Mohammad M., and Naresh R. Shanbhag. "A 640-Mb/s 2048-bit programmable 
 Shih, Xin-Yu, et al. "An 8.29 mm $^{2} $52 mW Multi-Mode LDPC Decoder Design for Mobile WiMAX System in 0.13$\mu $ m CMOS Process." IEEE Journal of Solid-State Circuits 43.3 (2008): 672-683. [Shih08](http://access.ee.ntu.edu.tw/Publications/Journal/J24_2008.pdf)
 
 Zhang, Kai, Xinming Huang, and Zhongfeng Wang. "High-throughput layered decoder implementation for quasi-cyclic LDPC codes." IEEE Journal on Selected Areas in Communications 27.6 (2009). [Zhang09](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.6697&rep=rep1&type=pdf)
+
+Sun, Yang, and Joseph R. Cavallaro. "A flexible LDPC/turbo decoder architecture." Journal of Signal Processing Systems 64.1 (2011): 1-16. [Sun11](https://scholarship.rice.edu/bitstream/handle/1911/64205/2011_JSPS_SUN.pdf?sequence=1)
