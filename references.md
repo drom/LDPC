@@ -31,3 +31,6 @@ Shih, Xin-Yu, et al. "An 8.29 mm $^{2} $52 mW Multi-Mode LDPC Decoder Design for
 Zhang, Kai, Xinming Huang, and Zhongfeng Wang. "High-throughput layered decoder implementation for quasi-cyclic LDPC codes." IEEE Journal on Selected Areas in Communications 27.6 (2009). [Zhang09](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.6697&rep=rep1&type=pdf)
 
 Sun, Yang, and Joseph R. Cavallaro. "A flexible LDPC/turbo decoder architecture." Journal of Signal Processing Systems 64.1 (2011): 1-16. [Sun11](https://scholarship.rice.edu/bitstream/handle/1911/64205/2011_JSPS_SUN.pdf?sequence=1)
+
+Balatsoukas-Stimming, Alexios, et al. "A parallelized layered QC-LDPC decoder for IEEE 802.11 ad." New Circuits and Systems Conference (NEWCAS), 2013 IEEE 11th International. IEEE, 2013. [Balatsoukas13](https://infoscience.epfl.ch/record/186806/files/PID2770545.pdf)
+
