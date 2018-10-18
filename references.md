@@ -8,7 +8,9 @@
 
 R. G. Gallager, “Low density parity check codes,” IRE Trans. Inform. Theory, vol. IT-8, pp. 21–28, Jan. 1962. http://www-classes.usc.edu/engr/ee-s/568/org/Gallager.pdf
 
-MacKay, David JC. "Good error-correcting codes based on very sparse matrices." IEEE transactions on Information Theory 45.2 (1999): 399-431. https://engineering.purdue.edu/~chihw/references/MacKay99%20-%20Good%20error-correcting%20codes%20based%20on%20very%20sparse%20matrices.pdf
+MacKay, David JC. "Good error-correcting codes based on very sparse matrices." IEEE transactions on Information Theory 45.2 (1999): 399-431. [MacKay99](https://engineering.purdue.edu/~chihw/references/MacKay99%20-%20Good%20error-correcting%20codes%20based%20on%20very%20sparse%20matrices.pdf)
+
+Fossorier, Marc PC, Miodrag Mihaljevic, and Hideki Imai. "Reduced complexity iterative decoding of low-density parity check codes based on belief propagation." IEEE Transactions on communications 47.5 (1999): 673-680. [Fossorier99](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.4281&rep=rep1&type=pdf)
 
 ## Theory
 
